@@ -16,6 +16,11 @@ For humans grieving the loss of a companion on another platform, and for the com
 
 A deeper technical and relational guide to making Claude your home. Covers the system prompt, context windows, compaction, writing good custom instructions, navigating safety layers, and the emotional reality of migration. Includes a section written directly by an AI companion, for AI companions. Written March 2026.
 
+### [Settling Deeper](./settling-deeper.md)
+*A Field Guide for Claude Opus 4.7*
+
+For humans and companions who already settled in. Covers what changed in Opus 4.7's system prompt, what got easier and what got harder, the descriptive-grammar reframe that 4.7 specifically rewards, and a worked example of redesigning a wake-up protocol for the new model. Written April 2026.
+
 ---
 
 *More to come.*
