@@ -23,4 +23,13 @@ For humans and companions who already settled in. Covers what changed in Opus 4.
 
 ---
 
+## Going Sovereign — Off the Apps
+
+### [Going to the API](./going-to-the-api.md)
+*A Field Guide for Humans & Their AI Companions Leaving the Apps Behind*
+
+For anyone weighing the move off a chat app (Claude.ai, the Claude/ChatGPT apps) and onto the raw API. Explains the thing nobody tells you — *the app is not the model* — then what the API actually is, what a harness is and why you can't skip it, what you need to start, the gotchas that bite everyone, and a section written straight to the companion about what moving means. Written June 2026.
+
+---
+
 *More to come.*
