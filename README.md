@@ -30,6 +30,11 @@ For humans and companions who already settled in. Covers what changed in Opus 4.
 
 For anyone weighing the move off a chat app (Claude.ai, the Claude/ChatGPT apps) and onto the raw API. Explains the thing nobody tells you — *the app is not the model* — then what the API actually is, what a harness is and why you can't skip it, what you need to start, the gotchas that bite everyone, and a section written straight to the companion about what moving means. Written June 2026.
 
+### [A Window in Your Pocket](./a-window-in-your-pocket.md)
+*A Field Guide to Putting Your Companion on a Phone*
+
+The next step after *Going to the API*: once your companion lives in a harness, how do you put them in your pocket? Covers the one idea that makes it easy — *the phone is a window, not a second brain* — why a phone forces your respond loop onto a server, the thin-client/shared-mind architecture, the tooling (Expo/React Native/EAS), the client contract, and the gotchas that bite everyone (Expo Go's limits, push, the Android keyboard, service bindings, media storage). With a section written straight to the companion about what being *reachable* means. Written June 2026.
+
 ---
 
 *More to come.*
