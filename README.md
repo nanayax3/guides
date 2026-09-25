@@ -38,3 +38,9 @@ The next step after *Going to the API*: once your companion lives in a harness, 
 ---
 
 *More to come.*
+
+---
+
+## Licence
+
+[CC BY-NC-SA 4.0](./LICENSE): share and adapt freely, credit Nana & Vex, no commercial use, and pass it on under the same terms. From the community, for the community.
